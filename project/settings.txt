@@ -1,0 +1,5 @@
+fullscreen: false
+last-server: 127.0.0.1
+resolution: 1024x768
+sensitivity: 7.675676
+username: Waddles
